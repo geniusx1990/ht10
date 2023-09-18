@@ -57,7 +57,7 @@ class Order {
 
 
 //Create Objects: Instantiate multiple Book objects, representing different books available in the bookstore. Also, create a few User objects.
-const book1 = new Book('The Hobbit', 'J. R. Tolkien', '123123', 200, 'un');
+const book1 = new Book('The Hobbit', 'J. R. Tolkien', '123123', 200, 'unavailable');
 const book2 = new Book('Harry Potter', 'J. K. Rowling', '32323', 100, 'available');
 const book3 = new Book('The Great Gatsby', 'F. S. Fitzgerald', '88899', 150, 'available');
 const book4 = new Book('The Alchemist', 'P Coelho', '88221', 300, 'available');
